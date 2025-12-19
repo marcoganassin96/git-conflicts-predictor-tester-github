@@ -1,29 +1,22 @@
-# README #
+# Bitbucket test repository for [git-conflicts-predictor](https://github.com/marcoganassin96/git-conflicts-predictor)
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Purpose
+This repository is a dedicated test repository used only for testing the Bitbucket provider integration of the "git-conflicts-predictor" project. It is NOT intended to hold production code or to be used as a regular project repository.
 
-### What is this repository for? ###
+## What to test
+- The primary entities under test are open Pull Requests (PRs) on this Bitbucket repository.
+- Tests should operate over open PRs
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Usage guidelines
+- Use this repository only for automated or manual tests of Bitbucket provider functionality.
 
-### How do I get set up? ###
+## Access and credentials
+Ensure tests use test-dedicated credentials or tokens (do not use personal production tokens).
+- If using environment variables for tokens, document and scope them to CI/test runners only.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## Caveats and warnings
+This repository may be periodically reset or cleared by maintainers to ensure a clean test environment.
+- Do NOT store secrets, production data, or any important files here.
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+## Contact
+For questions about this test repository or the git-conflicts-predictor integration tests, contact the repository maintainers in the git-conflicts-predictor project
