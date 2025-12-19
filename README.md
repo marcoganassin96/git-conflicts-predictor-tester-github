@@ -20,3 +20,7 @@ This repository may be periodically reset or cleared by maintainers to ensure a 
 
 ## Contact
 For questions about this test repository or the git-conflicts-predictor integration tests, contact the repository maintainers in the git-conflicts-predictor project
+
+
+## Work in Progress
+- It's fundamental to the whole Dev Metal genre to [Build a new song based on "Zen of Python"](https://github.com/NanowarOfSteel/HelloWorld/issues/52), as suggested by the linked issue in the [Hello World](https://github.com/NanowarOfSteel/HelloWorld) repo by [Nanowar of Steel](https://www.youtube.com/watch?v=yup8gIXxWDU).
