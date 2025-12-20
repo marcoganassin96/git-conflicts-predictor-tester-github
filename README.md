@@ -20,3 +20,7 @@ This repository may be periodically reset or cleared by maintainers to ensure a 
 
 ## Contact
 For questions about this test repository or the git-conflicts-predictor integration tests, contact the repository maintainers in the git-conflicts-predictor project
+
+# Work in Progress
+- Add AI to sparkling water: Done ✅
+- Test if it actually executes: I copied-pasted to GPT and it says it works, so I trust it does. ✅
