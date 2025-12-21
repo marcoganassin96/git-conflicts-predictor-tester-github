@@ -1,14 +1,14 @@
-# Bitbucket test repository for [git-conflicts-predictor](https://github.com/marcoganassin96/git-conflicts-predictor)
+# Provider-specific test repository for [git-conflicts-predictor](https://github.com/marcoganassin96/git-conflicts-predictor)
 
 ## Purpose
-This repository is a dedicated test repository used only for testing the Bitbucket provider integration of the "git-conflicts-predictor" project. It is NOT intended to hold production code or to be used as a regular project repository.
+This repository is a dedicated test repository used only for testing the provider-specific (GitHub/Bitbucket/GitLab) integration of the "git-conflicts-predictor" project. It is NOT intended to hold production code or to be used as a regular project repository.
 
 ## What to test
-- The primary entities under test are open Pull Requests (PRs) on this Bitbucket repository.
+- The primary entities under test are open Pull Requests (PRs) on this provider-specific repository.
 - Tests should operate over open PRs
 
 ## Usage guidelines
-- Use this repository only for automated or manual tests of Bitbucket provider functionality.
+- Use this repository only for automated or manual tests of provider-specific functionalities.
 
 ## Access and credentials
 Ensure tests use test-dedicated credentials or tokens (do not use personal production tokens).
