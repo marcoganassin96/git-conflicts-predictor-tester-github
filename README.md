@@ -1,7 +1,7 @@
-# Provider-specific test repository for [git-conflicts-predictor](https://github.com/marcoganassin96/git-conflicts-predictor)
+# Provider-specific test repository for [git-overlap](https://github.com/marcoganassin96/git-overlap)
 
 ## Purpose
-This repository is a dedicated test repository used only for testing the provider-specific (GitHub/Bitbucket/GitLab) integration of the "git-conflicts-predictor" project. It is NOT intended to hold production code or to be used as a regular project repository.
+This repository is a dedicated test repository used only for testing the provider-specific (GitHub/Bitbucket/GitLab) integration of the [git-overlap](https://github.com/marcoganassin96/git-overlap) project. It is NOT intended to hold production code or to be used as a regular project repository.
 
 ## What to test
 - The primary entities under test are open Pull Requests (PRs) on this provider-specific repository.
@@ -19,4 +19,4 @@ This repository may be periodically reset or cleared by maintainers to ensure a 
 - Do NOT store secrets, production data, or any important files here.
 
 ## Contact
-For questions about this test repository or the git-conflicts-predictor integration tests, contact the repository maintainers in the git-conflicts-predictor project
+For questions about this test repository or the git-overlap integration tests, contact the repository maintainers in the git-overlap project
